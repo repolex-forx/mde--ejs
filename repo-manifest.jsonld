@@ -147,8 +147,9 @@
     {
       "@id": "https://repolex.ai/r/mde/ejs/commit/469913d8aac83e744ac9ca47cd7b7493928c1638",
       "git:hexsha": "469913d8aac83e744ac9ca47cd7b7493928c1638",
-      "repolex:parseStatus": "pending",
-      "git:tagName": "v2.5.1"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v2.5.1",
+      "repolex:parsedAt": "2026-04-11T00:26:30.628324+00:00"
     },
     {
       "@id": "https://repolex.ai/r/mde/ejs/commit/7de0036448d5282e782c09c400fe0374dd237562",
