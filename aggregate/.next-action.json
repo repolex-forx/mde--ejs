@@ -1,9 +1,8 @@
 {
-  "next_action": "combine",
-  "phase_completed": "enrich",
-  "commit_sha": "a56d13f85c32ee41769e90632c528f20de507a7b",
-  "ts": "2026-04-11T04:05:54Z",
-  "call_sites": 556,
-  "call_targets_resolved": 15,
-  "import_targets_resolved": 0
+  "next_action": "ast",
+  "phase_completed": "parse",
+  "commit_sha": "fa06a6ae4a5c33b12723acc55282731b096e5ceb",
+  "ts": "2026-04-11T04:22:27Z",
+  "blobs_parsed": 8,
+  "blobs_skipped": 48
 }
