@@ -1,0 +1,7 @@
+[2026-04-11T05:50:38Z] === AST ITERATION 1 START | repo=mde/ejs sha=4b5e7fec ===
+[2026-04-11T05:50:38Z] [iter=1] PHASE START: ast repo=mde/ejs sha=4b5e7fec
+[2026-04-11T05:50:38Z] [iter=1] Building AST aggregate chunks
+[2026-04-11T05:50:41Z] [iter=1] AST chunks built count=1 triples=38228
+[2026-04-11T05:50:41Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/4b5e7fec9a823332b651bdacd03d1c727d1905ce/.complete
+[2026-04-11T05:50:41Z] [iter=1] PHASE END: ast elapsed_s=3 elapsed_min=0.1
+[2026-04-11T05:50:41Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
